@@ -49,7 +49,7 @@ function CompanyForm(props) {
     //render
     return (
     <div className="App-container">
-        <h1 className="App-titre">Entreprisereyzgdfsgdsdg</h1>
+        <h1 className="App-titre">Entreprise</h1>
         <div className="App-content">
             <form onSubmit={handleSubmit(onSubmitCompany)}>
             <div className="input">
